@@ -1,1 +1,2 @@
-# mycv
+Tried out some simple html and css here!....
+check it out:  https://ritika6060.github.io/mycv/
